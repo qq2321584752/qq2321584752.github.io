@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://qq2321584752.github.io/about/</loc>
+        <lastmod>2019-04-27T14:17:40.434Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://qq2321584752.github.io/tags/</loc>
         <lastmod>2019-04-27T09:22:40.585Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>https://qq2321584752.github.io/archive/</loc>
         <lastmod>2019-04-27T09:22:40.477Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://qq2321584752.github.io/about/</loc>
-        <lastmod>2019-04-27T09:22:40.471Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
